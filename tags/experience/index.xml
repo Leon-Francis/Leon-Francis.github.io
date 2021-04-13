@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Leon Francis&#39;s Personal Blog</title>
-        <link>https://example.com/</link>
-        <description>Leon Francis&#39;s Personal Blog</description>
+        <title>Experience - Tag - Leon Francis&#39;s Personal Blog</title>
+        <link>https://example.com/tags/experience/</link>
+        <description>Experience - Tag - Leon Francis&#39;s Personal Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>leon_francis@163.com (Leon Francis)</managingEditor>
-            <webMaster>leon_francis@163.com (Leon Francis)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 12 Apr 2021 22:02:27 &#43;0800</lastBuildDate>
-            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>leon_francis@163.com (Leon Francis)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 12 Apr 2021 22:02:27 &#43;0800</lastBuildDate><atom:link href="https://example.com/tags/experience/" rel="self" type="application/rss+xml" /><item>
     <title>Experience of My First Study</title>
     <link>https://example.com/first-research-experience/</link>
     <pubDate>Mon, 12 Apr 2021 22:02:27 &#43;0800</pubDate>

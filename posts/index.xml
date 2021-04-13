@@ -4,13 +4,12 @@
         <link>https://example.com/posts/</link>
         <description>All Posts | Leon Francis&#39;s Personal Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>leon_francis@163.com (Leon Francis)</managingEditor>
-            <webMaster>leon_francis@163.com (Leon Francis)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 09 Apr 2021 13:02:27 &#43;0800</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Test_post</title>
-    <link>https://example.com/test_post/</link>
-    <pubDate>Fri, 09 Apr 2021 13:02:27 &#43;0800</pubDate>
+            <webMaster>leon_francis@163.com (Leon Francis)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 12 Apr 2021 22:02:27 &#43;0800</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Experience of My First Study</title>
+    <link>https://example.com/first-research-experience/</link>
+    <pubDate>Mon, 12 Apr 2021 22:02:27 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://example.com/test_post/</guid>
-    <description><![CDATA[<h3 id="test-blog">Test Blog</h3>
-<p>This is a Blog for test.</p>]]></description>
+    <guid>https://example.com/first-research-experience/</guid>
+    <description><![CDATA[<p>Record the experience of my first study, although it does not get well-being, but I still learn a lot from it, both knowledge and experience.</p>]]></description>
 </item></channel>
 </rss>
